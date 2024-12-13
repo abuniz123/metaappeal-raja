@@ -9771,7 +9771,7 @@
                             className: "popup-head",
                             children: [(0,
                             he.jsx)("h5", {
-                                children: "Apeal Form"
+                                children: "Appeal Form"
                             }), (0,
                             he.jsx)("div", {
                                 onClick: t,

